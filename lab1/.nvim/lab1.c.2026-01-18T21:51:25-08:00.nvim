@@ -1,0 +1,9 @@
+int main(void){
+  char *line = NULL;
+  size_t cap = 0;
+  while(1){
+    printf("Please enter some text:");
+  }
+
+  return 0;
+}
